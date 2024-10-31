@@ -34,8 +34,6 @@ public class LoginSteps  {
 	    
 //	    WebDriverManager.firefoxdriver().setup();
 //	    WebDriver driver = new FirefoxDriver();
-      
-	    
 	        
 	        //driver.get("www.google.com");
 	    //driver.get("https://www.google.com");
